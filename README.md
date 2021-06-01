@@ -2,6 +2,8 @@
 
 When holding a portfolio of bonds, it's of particular importance to manage the expected payback (be it Interest Payments or Principal) to be received in the next months, quarters and even years. This allows one to anticipate the expected cash flows from the coupons, receipt of principal payments on bonds that are nearing maturity date, and look at total amounts in the desired currency. Thanks to the Refinitiv Data API and libraries such as Instrument Pricing Analytics (IPA) this is made simple. Follow the steps below to get more insight, faster, into your Bond Portfolio.
 
+Refer to the [Bond CashFlow Article](https://developers.refinitiv.com/en/article-catalog/article/payout-schedule-and-cash-flow-analysis-for-a-bond-portfolio) defined within the Refinitiv Developer Community for more details.
+
 ## <a id="disclaimer"></a>Disclaimer
 The source code presented in this project has been written by Refinitiv only for the purpose of illustrating the concepts of creating example scenarios using Refinitiv APIs.
 
