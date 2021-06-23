@@ -15,11 +15,11 @@ To execute any workbook, refer to the following:
 
 License(s):
 
-- A Refinitiv desktop license (Refinitiv Eikon or Refinitiv Workspace) that has API access 
+- A Refinitiv desktop license (Refinitiv Eikon or Refinitiv Workspace) that has API access and your data license variant must include access to IPA (Instrument Pricing Analytics)
 
   **OR**
 
-- A [Refinitiv Data Platform (RDP)](https://developers.refinitiv.com/refinitiv-data-platform/refinitiv-data-platform-apis) license with access to the [Financial Contracts](https://api.refinitiv.com/) data services within the Instrument Pricing Analytics.
+- A [Refinitiv Data Platform (RDP)](https://developers.refinitiv.com/refinitiv-data-platform/refinitiv-data-platform-apis) license with access to IPA (Instrument Pricing Analytics)
 
 [Development Environment](https://developers.refinitiv.com/en/api-catalog/eikon/eikon-data-api/tutorials#setting-up-a-python-development-environment)
 
